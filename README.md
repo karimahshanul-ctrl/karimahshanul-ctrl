@@ -95,6 +95,7 @@ Custom CRM built for lead-generation operations, covering companies, contacts, e
 </td>
 </tr>
 </table>
+
 ## 💡 Current Focus
 
 - Building practical **AI agents** for real business workflows
