@@ -28,15 +28,6 @@ I build AI agents, n8n workflows, custom tools, and intelligent automations that
 | 🔌 **API & System Integrations** | REST APIs, webhooks, third-party platforms, databases, and custom integrations. |
 | 🛠️ **Custom Business Tools** | Internal applications and utilities designed around real operational requirements. |
 | 🎯 **Lead Generation Automation** | Automated prospect research, data enrichment, validation, outreach preparation, and lead workflows. |
-## 💡 Current Focus
-
-- Building practical **AI agents** for real business workflows
-- Designing scalable **n8n automation systems**
-- Developing **RAG and MCP-powered applications**
-- Connecting AI models with APIs, databases, and business tools
-- Automating **lead generation, research, and data processing**
-- Creating custom tools that replace repetitive manual work
----
 
 ## ⭐ Featured Projects
 
@@ -104,3 +95,11 @@ Custom CRM built for lead-generation operations, covering companies, contacts, e
 </td>
 </tr>
 </table>
+## 💡 Current Focus
+
+- Building practical **AI agents** for real business workflows
+- Designing scalable **n8n automation systems**
+- Developing **RAG and MCP-powered applications**
+- Connecting AI models with APIs, databases, and business tools
+- Automating **lead generation, research, and data processing**
+- Creating custom tools that replace repetitive manual work
