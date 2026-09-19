@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammad Ahshanul Karim</h1>
 
-<!--
-**karimahshanul-ctrl/karimahshanul-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Automation & Business Process Specialist
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I build AI agents, n8n workflows, custom tools, and intelligent automations that reduce repetitive work, streamline business operations, and power smarter lead generation.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🤖 AI Agents &nbsp;•&nbsp;
+  ⚙️ n8n Automation &nbsp;•&nbsp;
+  🧠 RAG & MCP &nbsp;•&nbsp;
+  🔌 API Integrations &nbsp;•&nbsp;
+  🛠️ Custom Tools &nbsp;•&nbsp;
+  🎯 Lead Generation
+</p>
