@@ -104,3 +104,41 @@ Custom CRM built for lead-generation operations, covering companies, contacts, e
 - Connecting AI models with APIs, databases, and business tools
 - Automating **lead generation, research, and data processing**
 - Creating custom tools that replace repetitive manual work
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 🤖 AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-AI_Models-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-AI_Assistant-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Knowledge_Systems-5A67D8?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-Tool_Integration-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_APIs-Integration-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Webhooks-Automation-FF6C37?style=flat-square" />
+</p>
+
+### 💻 Development & Data
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-Vector_DB-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Playwright-Testing_&_Scraping-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+</p>
+
+### 🛠️ Platforms & Productivity
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apify-00A870?style=flat-square&logo=apify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
