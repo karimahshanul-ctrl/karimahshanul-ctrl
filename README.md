@@ -17,6 +17,20 @@ I build AI agents, n8n workflows, custom tools, and intelligent automations that
   🎯 Lead Generation
 </p>
 
+<p align="center">
+  <a href="https://ahshanulkarim.paypersupport.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-ahshanul-karim-a0a915129/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0196013b22845a04af">
+    <img src="https://img.shields.io/badge/Upwork-View_Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="mailto:karim.ahshanul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## 🚀 What I Build
 
