@@ -54,6 +54,7 @@ I build AI agents, n8n workflows, custom tools, and intelligent automations that
 AI travel assistant that uses live tools for weather, hotels, restaurants, attractions, and currency data instead of relying on model guesses.
 
 **Tech:** `n8n` `MCP` `OpenAI` `APIs`
+[**View case study →**]([PASTE_CASE_STUDY_URL_HERE](https://ahshanulkarim.paypersupport.com/projects/mcp-travel-assistant/))
 
 </td>
 <td width="50%" valign="top">
@@ -63,6 +64,7 @@ AI travel assistant that uses live tools for weather, hotels, restaurants, attra
 AI support workflow that retrieves answers from a company knowledge base, drafts customer replies, and requires human approval before anything is sent.
 
 **Tech:** `n8n` `RAG` `OpenAI` `Pinecone` `Gmail`
+[**View case study →**]([PASTE_CASE_STUDY_URL_HERE](https://ahshanulkarim.paypersupport.com/projects/rag-email-support-agent/))
 
 </td>
 </tr>
@@ -75,6 +77,7 @@ AI support workflow that retrieves answers from a company knowledge base, drafts
 Automates job-market research using webhooks and Apify, cleans the results, saves them to Google Sheets, and generates an AI market summary.
 
 **Tech:** `n8n` `Apify API` `Webhooks` `Google Sheets` `OpenAI`
+[**View case study →**]([PASTE_CASE_STUDY_URL_HERE](https://ahshanulkarim.paypersupport.com/projects/linkedin-job-alert/))
 
 </td>
 <td width="50%" valign="top">
@@ -84,6 +87,7 @@ Automates job-market research using webhooks and Apify, cleans the results, save
 Python-based scraper and dashboard for collecting, cleaning, de-duplicating, filtering, and exporting public job-market data at scale.
 
 **Tech:** `Python` `Playwright` `VPS` `Data Processing`
+[**View case study →**]([PASTE_CASE_STUDY_URL_HERE](https://ahshanulkarim.paypersupport.com/projects/linkedin-job-scraper/))
 
 </td>
 </tr>
@@ -96,6 +100,7 @@ Python-based scraper and dashboard for collecting, cleaning, de-duplicating, fil
 Python analysis tool that identifies companies already using recruitment agencies by detecting distinctive text patterns across job advertisements.
 
 **Tech:** `Python` `Text Analysis` `CSV` `Job-Market Data`
+[**View case study →**]([PASTE_CASE_STUDY_URL_HERE](https://ahshanulkarim.paypersupport.com/projects/agency-signal/))
 
 </td>
 <td width="50%" valign="top">
@@ -105,6 +110,7 @@ Python analysis tool that identifies companies already using recruitment agencie
 Custom CRM built for lead-generation operations, covering companies, contacts, enrichment, verification, exclusion lists, and activity tracking.
 
 **Tech:** `PHP` `MySQL` `JavaScript` `APIs`
+[**View case study →**]([PASTE_CASE_STUDY_URL_HERE](https://ahshanulkarim.paypersupport.com/projects/ers-crm/))
 
 </td>
 </tr>
